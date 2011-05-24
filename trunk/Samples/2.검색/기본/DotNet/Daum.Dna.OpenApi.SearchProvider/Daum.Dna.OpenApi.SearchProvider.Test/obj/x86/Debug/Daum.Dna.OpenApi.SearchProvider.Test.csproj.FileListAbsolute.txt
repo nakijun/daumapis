@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\Daum.Dna.OpenApi.SearchProvider.Test.MainForm.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\Daum.Dna.OpenApi.SearchProvider.Test.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\bin\Debug\Daum.Dna.OpenApi.SearchProvider.Test.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\bin\Debug\Daum.Dna.OpenApi.SearchProvider.Test.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\bin\Debug\Daum.Dna.OpenApi.SearchProvider.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\bin\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\Daum.Dna.OpenApi.SearchProvider.Test.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider.Test\obj\x86\Debug\Daum.Dna.OpenApi.SearchProvider.Test.pdb

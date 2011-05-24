@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\bin\Debug\Daum.Dna.OpenApi.SearchProvider.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\bin\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
