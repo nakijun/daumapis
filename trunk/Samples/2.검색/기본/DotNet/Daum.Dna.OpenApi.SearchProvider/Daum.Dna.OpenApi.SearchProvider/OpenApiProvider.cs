@@ -27,13 +27,13 @@ namespace Daum.Dna.OpenApi.SearchProvider
             WebResponse wrp = wr.GetResponse();
 
             XDocument xd = XDocument.Load(wrp.GetResponseStream());
+            
+            IEnumerable<XElement> xerr = xd.Descendants("apierror");
 
-            XElement xerr = xd.Element("apierror");
-
-            if (xerr != null)
+            if (xerr.Count() > 0)
             {
                 String errMsg = "";
-                foreach (XElement xes in xerr.Nodes())
+                foreach (XElement xes in xerr)
                 {
                     errMsg += xes.Name + "-" + xes.Value + "/";
                 }

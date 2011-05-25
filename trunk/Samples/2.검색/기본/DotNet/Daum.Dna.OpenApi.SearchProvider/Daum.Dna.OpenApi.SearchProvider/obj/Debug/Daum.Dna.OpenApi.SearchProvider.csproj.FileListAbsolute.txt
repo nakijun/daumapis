@@ -3,3 +3,8 @@ C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.Se
 C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\bin\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
 C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.dll
 C:\Users\Administrator\documents\visual studio 2010\Projects\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
+C:\Users\Administrator\Documents\Daum 클라우드\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\2.검색\기본\DotNet\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\bin\Debug\Daum.Dna.OpenApi.SearchProvider.dll
+C:\Users\Administrator\Documents\Daum 클라우드\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\2.검색\기본\DotNet\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\bin\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
+C:\Users\Administrator\Documents\Daum 클라우드\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\2.검색\기본\DotNet\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Daum 클라우드\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\2.검색\기본\DotNet\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.dll
+C:\Users\Administrator\Documents\Daum 클라우드\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\2.검색\기본\DotNet\Daum.Dna.OpenApi.SearchProvider\Daum.Dna.OpenApi.SearchProvider\obj\Debug\Daum.Dna.OpenApi.SearchProvider.pdb
