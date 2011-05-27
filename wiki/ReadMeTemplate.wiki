@@ -10,7 +10,7 @@ Daum DNA OpenAPI Sample Info
 CreateDate : {작성날짜}
 UpdateDate : {수정날짜}
 Writer : {작성자}
-Sample Location : {해당위치}
+Location : {해당위치}
 Title : {타이틀}
 Language : {개발언어}
 
@@ -28,7 +28,7 @@ Daum DNA OpenAPI Sample Info
 CreateDate : 2011/05/27
 UpdateDate : -
 Writer : 이정주
-Sample Location : Samples/1.Search/3.Basics/DotNet
+Location : Samples/1.Search/3.Basics/DotNet
 Title : 검색하기
 Language : DotNet(C#)
 
