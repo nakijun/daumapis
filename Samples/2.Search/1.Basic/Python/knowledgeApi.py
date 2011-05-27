@@ -1,5 +1,5 @@
 ﻿import simplejson, urllib
-apikey = "DAUM_SEARCH_DEMO_APIKEY"
+apikey = "{발급 받은 키를 입력하세요.}"
 SEARCH_BASE ="http://apis.daum.net/search/knowledge"
 
 def search(query, **args):
