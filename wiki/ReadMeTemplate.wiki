@@ -3,7 +3,7 @@
 
 샘플을 활용하는데 있어 필요한 정보를 넣을 readme.txt파일의 템플릿을 정의합니다.
 
-= ReadMe.txt Template =
+= ReadMe Template =
 {{{
 Daum DNA OpenAPI Sample Info
 
@@ -21,7 +21,7 @@ Using external library list
 {사용한 외부 라이브러리}
 }}}
 
-= ReadMe.txt Sample =
+= ReadMe Sample =
 {{{
 Daum DNA OpenAPI Sample Info
 
