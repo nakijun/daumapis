@@ -7,7 +7,7 @@
 
 error_reporting(E_ALL);
 
-$request = 'http://apis.daum.net/search/blog?apikey=[사용자 인증키]&q='.urlencode('다음');
+$request = 'http://apis.daum.net/search/blog?apikey={발급 받은 키를 입력하세요.}&q='.urlencode('다음');
 
 $response = file_get_contents($request);
 

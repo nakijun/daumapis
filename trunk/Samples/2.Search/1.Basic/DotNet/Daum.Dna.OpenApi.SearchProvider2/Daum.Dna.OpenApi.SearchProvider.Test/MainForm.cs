@@ -41,7 +41,7 @@ namespace Daum.Dna.OpenApi.SearchProvider.Test
             try
             {
                 //API호출
-                BlogData data = OpenApiProvider.RequestBlogApi("7fd190dd37f0ad9d15cbfd69e6d1aa3320623256", query, result, page, sort, "rss", "");
+                BlogData data = OpenApiProvider.RequestBlogApi("{발급 받은 키를 입력하세요.}", query, result, page, sort, "rss", "");
 
                 //Title만 리스트에 표시
                 listResponse.DataSource = data.Items.Select(a=>a.Title).ToList();

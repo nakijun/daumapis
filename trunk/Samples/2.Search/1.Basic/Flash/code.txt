@@ -32,7 +32,7 @@
 <!-- HTTP 요청을 위한 부분 -->
 <mx:HTTPService id="xmlRequest" url="http://apis.daum.net/search/image" useProxy="false" >
 	<mx:request>
-		<apikey>4c6e39a8c8370f1d6a3acc763d55ae68603d2f6a</apikey>
+		<apikey>{발급 받은 키를 입력하세요.}</apikey>
 		<q>{txtQuery.text}</q>
 		<result>20</result>
 		<output>xml</output>
