@@ -3,7 +3,7 @@ Daum DNA OpenAPI Sample Info
 CreateDate : 2011/05/27
 UpdateDate : -
 Writer : 이정주
-Sample Location : Samples/1.Introduction/3.OAuth\DotNet
+Location : Samples/1.Introduction/3.OAuth/DotNet
 Title : OAuth로 인증하기
 Language : DotNet(C#)
 
