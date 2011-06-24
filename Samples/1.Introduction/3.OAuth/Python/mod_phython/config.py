@@ -8,8 +8,8 @@ api_server = 'apis.daum.net'
 api_port = 443
 
 #DaumAPI(OAuth)에 필요한 URL입니다. 
-request_token_url = 'https://apis.daum.net/oauth/requestToken'
-authorize_url = 'https://apis.daum.net/oauth/authorize'
+request_token_Url = 'https://apis.daum.net/oauth/requestToken'
+authorization_url = 'https://apis.daum.net/oauth/authorize'
 access_token_url = 'https://apis.daum.net/oauth/accessToken'
 
 #https://apis.daum.net/oauth/consumer/input 에서 발급받으신 counsumerKey, consumer_secret,callback_url을 설정합니다.
