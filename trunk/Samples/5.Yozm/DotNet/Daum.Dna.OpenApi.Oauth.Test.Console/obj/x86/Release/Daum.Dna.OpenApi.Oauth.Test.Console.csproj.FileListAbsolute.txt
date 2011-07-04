@@ -15,6 +15,3 @@ C:\Users\Administrator\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘�
 C:\Users\Administrator\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\obj\x86\Release\Daum.Dna.OpenApi.Oauth.Test.Console.exe
 C:\Users\Administrator\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\obj\x86\Release\Daum.Dna.OpenApi.Oauth.Test.Console.pdb
-C:\Users\Jungju\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업2\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\bin\Release\Daum.Dna.OpenApi.Oauth.Test.Console.exe.config
-C:\Users\Jungju\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업2\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\obj\x86\Release\Daum.Dna.OpenApi.Oauth.Test.Console.exe
-C:\Users\Jungju\Desktop\DaumCorp\001.프로젝트\002.OpenAPI 샘플\샘플작업2\Samples\1.Introduction\3.OAuth\DotNet\Daum.Dna.OpenApi.Oauth.Test.Console\obj\x86\Release\Daum.Dna.OpenApi.Oauth.Test.Console.pdb
