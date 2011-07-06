@@ -46,7 +46,7 @@ public class OAuthFileUploadExam {
 			
 			MultipartEntity entity = new MultipartEntity();
 
-			FileBody imgData = new FileBody(file, "text/jpg");
+			FileBody imgData = new FileBody(file, "image/jpeg");
 			StringBody message = new StringBody("파일업로드 테스트~!", Charset.forName("UTF-8"));
 			entity.addPart("img_data", imgData);
 			entity.addPart("message", message);
