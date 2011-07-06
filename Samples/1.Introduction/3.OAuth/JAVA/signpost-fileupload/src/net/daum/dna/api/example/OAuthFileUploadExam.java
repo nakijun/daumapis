@@ -38,8 +38,7 @@ public class OAuthFileUploadExam {
     // Consumer 객체 생성
     static OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
 
-    public static HttpResponse uploadFile(File file) {
-    	HttpResponse hr = null;
+    public static void uploadFile(File file) {
     	try {
 			HttpPost uploadPost = new HttpPost(API_URL + "/yozm/v1_0/message/add.xml");
 			
@@ -60,7 +59,6 @@ public class OAuthFileUploadExam {
 		} catch (Exception e) {
 		     e.printStackTrace();
 		}
-		return hr;
     }
        
 	public static void main(String[] args) throws OAuthMessageSignerException, OAuthNotAuthorizedException, OAuthExpectationFailedException, OAuthCommunicationException {		
