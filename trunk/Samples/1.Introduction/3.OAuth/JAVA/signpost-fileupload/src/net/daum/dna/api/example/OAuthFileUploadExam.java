@@ -40,19 +40,25 @@ public class OAuthFileUploadExam {
 
     public static void uploadFile(File file) {
     	try {
+			// 요즘 글쓰기 API의 URL 지정
 			HttpPost uploadPost = new HttpPost(API_URL + "/yozm/v1_0/message/add.xml");
-			
+		
+			// uploadPost 서명 (oauth_signature 파라미터 생성됨)
 			consumer.sign(uploadPost);
 			
+			// 요청 형식이 multipart/form-data 인경우에
+			// POST body의 내용은 oauth_signature를 만드는데 사용되지 않음으로 서명 이후 추가
 			MultipartEntity entity = new MultipartEntity();
 
+			// 파일 데이터, yozm 글 내용 추가
 			FileBody imgData = new FileBody(file, "image/jpeg");
 			StringBody message = new StringBody("파일업로드 테스트~!", Charset.forName("UTF-8"));
 			entity.addPart("img_data", imgData);
 			entity.addPart("message", message);
-						
+			
 			uploadPost.setEntity(entity);
 			
+			// API 호출 (파일과 메시지를 보낸다.)
 			DefaultHttpClient httpClient = new DefaultHttpClient();
 			System.out.println(httpClient.execute(uploadPost, new BasicResponseHandler()));
 			
