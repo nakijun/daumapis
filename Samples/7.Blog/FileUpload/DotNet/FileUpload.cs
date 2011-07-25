@@ -41,7 +41,7 @@ namespace Daum.Dna.OpenApi.Samples.Blog
             var authzHeader = _oauth.GenerateAuthzHeader(url, "POST");
 
             //헤더 정보와 url, 파일정보를 포함하여 전송후 출력된 정보 반환
-            string ret = UploadFilesToRemoteUrl(url, new string[] { "C:\\temp\\a.png" }, authzHeader);
+            string ret = UploadFilesToRemoteUrl(url, new string[] { "C:\\temp\\logo.png" }, authzHeader);
 
             System.Console.WriteLine(ret);
         }
