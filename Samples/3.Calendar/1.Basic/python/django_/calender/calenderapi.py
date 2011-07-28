@@ -1,11 +1,9 @@
 # -*- coding: UTF-8 -*-
-import oauthmodule
-import config
 from xml.etree import ElementTree
 
 from datetime import datetime, timedelta
 
-class Calender_api(object):
+class calender_api(object):
     def __init__(self,oauth_manager):
         self.load_event_all = []
         self.oauth_manager = oauth_manager;
@@ -44,6 +42,7 @@ class Calender_api(object):
     
     def select_event_by_date(self,search_date):
         result = []
+        search_date = search_date.replace('-','')
         for event_list in self.load_event_all:
             if  (datetime.strptime(search_date, '%Y%m%d')-datetime.strptime(event_list[2].split('T')[0].replace('-',''), '%Y%m%d')) >= timedelta(days=0):
                 if (datetime.strptime(search_date, '%Y%m%d')-datetime.strptime(event_list[0].split('T')[0].replace('-',''), '%Y%m%d')) <= timedelta(days=0):
@@ -59,11 +58,19 @@ class Calender_api(object):
             result += '<p>에러코드 - %s<br>' % response_xml.find('code').text.encode('utf-8')
             result += '에러내용 - %s</p>' % response_xml.find('message').text.encode('utf-8')
         else:
-            result += "%s," % response_xml.find('title').text.encode('utf-8')
-            result += "%s," % response_xml.find('description').text.encode('utf-8')
+            title = response_xml.find('title').text
+            if title:
+                result += "%s," % title.encode('utf-8')
+            else:
+                result += "제목 없음,"
+            description = response_xml.find('description').text
+            if description:
+                result += "%s," % description.encode('utf-8')
+            else:
+                result += "내용 없음,"
             result += "%s," % response_xml.find('start_at').text
             result += "%s," % response_xml.find('end_at').text
-            result += "%s," % id
+            result += "%s," % id.encode('utf-8','ignore')
         return  result
     
     def delete_event_by_id(self,id):
