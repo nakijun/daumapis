@@ -9,7 +9,7 @@ api_server = 'apis.daum.net'
 api_port = 443
 
 #DaumAPI(OAuth)에 필요한 URL입니다. 
-request_token_Url = 'https://apis.daum.net/oauth/requestToken'
+request_token_url = 'https://apis.daum.net/oauth/requestToken'
 authorization_url = 'https://apis.daum.net/oauth/authorize'
 access_token_url = 'https://apis.daum.net/oauth/accessToken'
 
@@ -18,11 +18,4 @@ consumer_key = '발급받으신 consumer_key를 입력하세요.'
 consumer_secret = '발급받으신 consumer_secret를 입력하세요.'
 callback_url= '등록하신 callback_url을 입력하세요.'
 oauth_file = '인증 안내 html파일의 절대경로를 입력하세요.'
-
-consumer_key = 'b9b8045f-ed52-4c16-9173-28b6b982c33f'
-consumer_secret = 'Zoa8ByqKHWABKCdScVKRqjB61SFpntmkNsHD8n-Ot-vGY2kIBlH.AA00'
-callback_url= 'http://mademin.com/tutorial_python/calender/callback.py'
-
-index_file = "/home/mademin/service/wwwroot/tutorial_python/calender/index.html"
-oauth_file = "/home/mademin/service/wwwroot/tutorial_python/calender/oauth.html"
 

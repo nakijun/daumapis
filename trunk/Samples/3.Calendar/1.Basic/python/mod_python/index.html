@@ -41,7 +41,9 @@
 				data: 'id='+id+'&start_date='+start_date,				
 			    success: function(response_text){
 					split_response = response_text.split(',')
-					if (response_text.length <= 2) {
+					if (split_response.length <= 1) {
+
+			            $("#loading	").css('display','none');
 						$("#manage_wrap").css('display', 'none');
 						$("#api_result").html(response_text);
 						$("#api_result").css('display', 'block');
